@@ -18,4 +18,4 @@ To develop an armsleeve containing a heating pad to decrease cold-stress and inc
 
 |![Image](docs/staywarm03.jpg)|![Image](docs/staywarm02.jpg)| 
 |:---:|:---:|
-| Demo of Arm Sleeve on subject | Components of Arm Sleeve |
+| Components of Arm Sleeve | Demo of Arm Sleeve on subject |
